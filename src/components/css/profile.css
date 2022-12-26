@@ -1,0 +1,28 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgb(177, 177, 177);
+}
+
+.title {
+  color: black;
+  font-size: 18px;
+}
+
+.btn {
+  color: white;
+  background-color: black;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid red;
+  border-radius: 10px;
+}
+
+.btn:hover {
+  background-color: aqua;
+  color: black;
+  cursor: pointer;
+}
